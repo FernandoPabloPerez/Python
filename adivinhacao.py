@@ -1,3 +1,7 @@
+# Jogo de adivinhacao
+#
+#
+
 import random
 
 def jogar():
